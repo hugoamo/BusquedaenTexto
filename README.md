@@ -11,8 +11,10 @@ Las opciones disponibles son:
 ## Invertir el texto: 
 ** La función reversed_text() invierte el texto cortándolo con un paso de -1.
 
-Buscar la palabra «Python» en el texto: La función find() utiliza el método find() para buscar la palabra 'Python' en el texto e imprime un mensaje indicando si se ha encontrado o no.
-Salir del programa: Se llama a la función exit() para salir del programa.
+## Buscar la palabra «Python» en el texto: 
+**La función find() utiliza el método find() para buscar la palabra 'Python' en el texto e imprime un mensaje indicando si se ha encontrado o no.
+## Salir del programa: 
+**Se llama a la función exit() para salir del programa.
 
 
-Traducción realizada con la versión gratuita del traductor DeepL.com
+
